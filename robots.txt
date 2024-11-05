@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://osecaeku.github.io/PDl/sitemap_index.txt
+Sitemap: https://osecaeku.github.io/aIs/sitemap_index.txt
+Sitemap: https://osecaeku.github.io/del/sitemap_index.txt
+Sitemap: https://osecaeku.github.io/hjy/sitemap_index.txt
